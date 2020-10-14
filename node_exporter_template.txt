@@ -1,3 +1,8 @@
+# HELP node_network_info Non-numeric data from /sys/class/net/<iface>, value is always 1.
+# TYPE node_network_info gauge
+{{#network}}
+node_network_info{address="",broadcast="",device="{{iface_name}}",duplex="full",ifalias="",operstate="unknown"} 1
+{{/network}}
 # HELP node_network_receive_bytes_total Network device statistic receive_bytes.
 # TYPE node_network_receive_bytes_total counter
 {{#network}}
