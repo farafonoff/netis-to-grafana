@@ -1,0 +1,20 @@
+# HELP node_network_receive_bytes_total Network device statistic receive_bytes.
+# TYPE node_network_receive_bytes_total counter
+{{#network}}
+node_network_receive_bytes_total{device="{{iface_name}}"} {{rx_bytes}}
+{{/network}}
+# HELP node_network_receive_packets_total Network device statistic receive_packets.
+# TYPE node_network_receive_packets_total counter
+{{#network}}
+node_network_receive_packets_total{device="{{iface_name}}"} {{rx_pack}}
+{{/network}}
+# HELP node_network_transmit_bytes_total Network device statistic transmit_bytes.
+# TYPE node_network_transmit_bytes_total counter
+{{#network}}
+node_network_transmit_bytes_total{device="{{iface_name}}"} {{rx_bytes}}
+{{/network}}
+# HELP node_network_transmit_packets_total Network device statistic transmit_packets.
+# TYPE node_network_transmit_packets_total counter
+{{#network}}
+node_network_transmit_packets_total{device="{{iface_name}}"} {{rx_pack}}
+{{/network}}
