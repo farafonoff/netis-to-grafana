@@ -1,3 +1,6 @@
+# HELP node_uname_info Labeled system information as provided by the uname system call.
+# TYPE node_uname_info gauge
+node_uname_info{domainname="(none)",machine="{{device}}",nodename="{{device}}",release="{{version}}",sysname="Linux",version="{{release}}"} 1
 # HELP node_load1 1m load average.
 # TYPE node_load1 gauge
 node_load1 {{cpu}}

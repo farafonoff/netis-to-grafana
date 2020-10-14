@@ -19,7 +19,10 @@ module.exports = class NetisParser {
     })
     return { 
       network: result, 
-      cpu: Number(parsedData.cpu.split("%")[0])/100 
+      cpu: Number(parsedData.cpu.split("%")[0])/100,
+      release: parsedData.version,
+      version: parsedData.version_num,
+      device: parsedData.hw_version_mode
     };
   }
 }
