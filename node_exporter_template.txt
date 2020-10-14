@@ -1,3 +1,12 @@
+# HELP node_load1 1m load average.
+# TYPE node_load1 gauge
+node_load1 {{cpu}}
+# HELP node_load15 15m load average.
+# TYPE node_load15 gauge
+node_load15 {{cpu}}
+# HELP node_load5 5m load average.
+# TYPE node_load5 gauge
+node_load5 {{cpu}}
 # HELP node_network_info Non-numeric data from /sys/class/net/<iface>, value is always 1.
 # TYPE node_network_info gauge
 {{#network}}

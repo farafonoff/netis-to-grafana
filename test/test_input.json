@@ -1,1 +1,1364 @@
-{"backup_error":"0","config_sequence":"0","mimotype":"WF2710","hw_version_mode":"WF2710","tr_version":"1","oem_flag":"0","schedule_reboot_enable":"0","reboot_time_hour":"00","reboot_time_min":"00","reboot_day":"","interval_reboot_enable":"0","interval_reboot_time":"2","reboot_time":"00:00","mirror_status":"0","capture_port":"","source_port":"","regdomain_only_eu":"0","access_mode":"0","br_wan":"0","chip_flag":"2","version_num":"V1.2.42660","version":"netis(WF2710)-V2.1.42660,2018.01.02 16:49.","dhcp_host_name":"","language":"1","connected":"1","days":"35","hours":"15","minutes":"56","seconds":"50","cpu":"19.4%","mem":"64%","wps_enable":"0","pin":"30320031","wps_enable5g":"0","wps_lock":"0","wps_status":"1","wps_lock5g":"0","wps_status5g":"1","pin5g":"30320031","wlan_enable_1x":"0","wlan_wpa_auth":"2","dhcp_status":"1","real_channel":"2","real_channel5g":"44","conntype":"3","tag_type":"0","wan_ip":"","wan_mask":"","wan_gw":"","ip":"94.181.73.66","mask":"255.255.255.255","gw":"188.233.238.254","ppp_gw_enable":"0","bridge_ip":"192.168.1.1","bridge_mask":"255.255.255.0","bridge_gw":"192.168.1.2","br_ip":"192.168.1.1","br_mask":"255.255.255.0","br_gw":"188.233.238.254","wan_run_time":"0","second_type":"1","second_dmz_ip":"0.0.0.0","second_static_ip":"0.0.0.0","second_static_mask":"0.0.0.0","second_ip":"0.0.0.0","second_mask":"0.0.0.0","second_gw":"0.0.0.0","dhcp_mtu":"1500","pppoe_mtu":"1480","static_mtu":"1500","wan_dns_a":"0.0.0.0","wan_dns_b":"0.0.0.0","dns_a":"91.144.164.1","dns_b":"5.3.3.3","br_dns_a":"91.144.164.1","br_dns_b":"5.3.3.3","pppoe_username":"v01958652","pppoe_pwd":"xfzm7mpp","ppp_connect_mode":"0","pppoe_service_name":"","pppoe_ac_name":"","ppp_time":"5","l2tp_username":"","l2tp_pwd":"","l2tp_server_name":"","l2tp_server_ip":"","l2tp_ip":"0.0.0.0","l2tp_mask":"0.0.0.0","l2tp_gw":"0.0.0.0","l2tp_mtu":"1460","l2tp_connect_mode":"0","l2tp_time":"5","l2tp_gw_enable":"0","pptp_username":"","pptp_pwd":"","pptp_server_name":"","pptp_server_ip":"","pptp_ip":"0.0.0.0","pptp_mask":"0.0.0.0","pptp_gw":"0.0.0.0","pptp_mtu":"1420","pptp_connect_mode":"0","pptp_time":"5","pptp_gw_enable":"0","ns_ver":"0","lan_mac":"04:8d:38:59:6e:71","lan_ip":"192.168.1.1","def_lan_ip":"192.168.1.1","lan_mask":"255.255.255.0","lan_start":"192.168.1.1","lan_end":"192.168.1.254","default_gw":"0.0.0.0","mac_addr":"04:8d:38:59:6e:79","mac_default":"04:8d:38:59:6e:79","mac_clone":"48:0f:cf:33:54:19","wan":"0","lan1":"0","lan2":"0","lan3":"0","lan4":"0","igmp_enable":"1","igmp_snooping_enable":"1","work_mode":"0","br_mode":"0","iptv_mode":"0","iptv_port":"0","vlan_tag_enable":"0","vlan_id_inter":"0","vlan_pri_inter":"0","vlan_id_iptv":"0","vlan_pri_iptv":"0","mvlan_id_iptv":"0","mvlan_pri_iptv":"0","vlan_id_phone":"0","vlan_pri_phone":"0","iptv_lan1_mode":"0","iptv_lan2_mode":"0","iptv_lan3_mode":"0","iptv_lan4_mode":"0","tools_type":"1","tools_count":"4","tools_pkt_size":"64","tools_timeout":"1000","tools_ttl":"20","tools_ip_url":"8888","tools_results":"","NetModeFlag":"0","NetModeFlag5g":"0","repeater_mac":"00:00:00:00:00:00","wisp_rssi":"0","enable_1x":"0","RS_ip":"0.0.0.0","RS_port":"1812","RS_pwd":"","enable_1x5g":"0","RS_ip5g":"0.0.0.0","RS_port5g":"1812","RS_pwd5g":"","g_virtualife_num":"3","wl_array_id":"0","user_name":"","wl_country":"","wl_vlan_id":"0","wl_vlan_qos":"0","repeater_enable":"0","wl_enable":"1","ssid":"netis_24","wl_stand":"10","net_mode":"0","wl_config":"0","net_type":"0","wl_mac":"04:8d:38:59:6e:75","wl_mac_def":"04:8d:38:59:6e:75","ssid_broad":"1","channel_width":"0","channel_width_auto":"0","channel_bind":"0","region":"12","channel":"2","sec_contr":"0","wds_sec_mode":"0","wds_key_mode_wep":"1","wds_key_mode_wpa":"1","wds_key_wep":"","wds_key_wpa":"","sec_mode":"4","key_size":"0","key_type":"3","key_mode_wep":"1","key_mode_wpa":"1","key_wep":"","key_wpa":"optanex14","key_time":"86400","wpa_auth":"2","repeater_ssid":"TELLO-C64DA9","wsc_disable":"1","wsc_ssid":"netis_24","wsc_psk":"optanex14","wsc_auth":"34","wsc_enc":"12","wsc_config_by_ext_reg":"0","wsc_configured":"1","wl_array_id5g":"0","user_name5g":"","wl_country5g":"","wl_vlan_id5g":"0","wl_vlan_qos5g":"0","repeater_enable5g":"0","wl_enable5g":"1","ssid5g":"netis_5","wl_stand5g":"75","net_mode5g":"0","wl_config5g":"0","net_type5g":"0","wl_mac5g":"04:8d:38:59:6e:71","wl_mac_def5g":"04:8d:38:59:6e:71","ssid_broad5g":"1","channel_width5g":"1","channel_bind5g":"0","region5g":"1","channel5g":"44","sec_contr5g":"0","wds_sec_mode5g":"0","wds_key_mode_wep5g":"1","wds_key_mode_wpa5g":"1","wds_key_wep5g":"","wds_key_wpa5g":"","sec_mode5g":"4","key_size5g":"0","key_type5g":"3","key_mode_wep5g":"1","key_mode_wpa5g":"1","key_wep5g":"","key_wpa5g":"optanex14","key_time5g":"86400","wpa_auth5g":"2","repeater_ssid5g":"","wsc_ssid5g":"netis_5","wsc_psk5g":"optanex14","wsc_auth5g":"34","wsc_enc5g":"12","wsc_config_by_ext_reg5g":"0","wsc_configured5g":"1","ap1_wl_array_id":"0","ap1_user_name":"","ap1_wl_country":"","ap1_wl_vlan_id":"0","ap1_wl_vlan_qos":"0","ap1_wl_enable":"1","ap1_ssid":"guest_ssid","ap1_wl_stand":"10","ap1_net_mode":"0","ap1_net_type":"0","ap1_wl_mac":"04:8d:38:59:6e:76","ap1_wl_mac_def":"04:8d:38:59:6e:75","ap1_ssid_broad":"1","ap1_channel_width":"1","ap1_channel_bind":"0","ap1_region":"1","ap1_channel":"6","ap1_sec_contr":"0","ap1_wds_sec_mode":"0","ap1_wds_key_mode_wep":"1","ap1_wds_key_mode_wpa":"1","ap1_wds_key_wep":"","ap1_wds_key_wpa":"","ap1_sec_mode":"3","ap1_key_size":"0","ap1_key_type":"2","ap1_key_mode_wep":"1","ap1_key_mode_wpa":"1","ap1_key_wep":"","ap1_key_wpa":"62382392","ap1_key_time":"86400","ap1_wpa_auth":"2","ap1_repeater_ssid":"TELLO-C64DA9","ap1_wl_array_id5g":"0","ap1_user_name5g":"","ap1_wl_country5g":"","ap1_wl_vlan_id5g":"0","ap1_wl_vlan_qos5g":"0","ap1_wl_enable5g":"0","ap1_ssid5g":"netis_5G_VAP1","ap1_wl_stand5g":"75","ap1_net_mode5g":"0","ap1_net_type5g":"0","ap1_wl_mac5g":"04:8d:38:59:6e:72","ap1_wl_mac_def5g":"04:8d:38:59:6e:71","ap1_ssid_broad5g":"1","ap1_channel_width5g":"2","ap1_channel_bind5g":"0","ap1_region5g":"1","ap1_channel5g":"6","ap1_sec_contr5g":"0","ap1_wds_sec_mode5g":"0","ap1_wds_key_mode_wep5g":"1","ap1_wds_key_mode_wpa5g":"1","ap1_wds_key_wep5g":"","ap1_wds_key_wpa5g":"","ap1_sec_mode5g":"0","ap1_key_size5g":"0","ap1_key_type5g":"2","ap1_key_mode_wep5g":"1","ap1_key_mode_wpa5g":"1","ap1_key_wep5g":"","ap1_key_wpa5g":"","ap1_key_time5g":"86400","ap1_wpa_auth5g":"2","ap1_repeater_ssid5g":"","ap2_wl_array_id":"0","ap2_user_name":"","ap2_wl_country":"","ap2_wl_vlan_id":"0","ap2_wl_vlan_qos":"0","ap2_wl_enable":"0","ap2_ssid":"netis_2.4G_VAP2","ap2_wl_stand":"10","ap2_net_mode":"0","ap2_net_type":"0","ap2_wl_mac":"04:8d:38:59:6e:77","ap2_wl_mac_def":"04:8d:38:59:6e:75","ap2_ssid_broad":"1","ap2_channel_width":"1","ap2_channel_bind":"0","ap2_region":"1","ap2_channel":"6","ap2_sec_contr":"0","ap2_wds_sec_mode":"0","ap2_wds_key_mode_wep":"1","ap2_wds_key_mode_wpa":"1","ap2_wds_key_wep":"","ap2_wds_key_wpa":"","ap2_sec_mode":"0","ap2_key_size":"0","ap2_key_type":"2","ap2_key_mode_wep":"1","ap2_key_mode_wpa":"1","ap2_key_wep":"","ap2_key_wpa":"","ap2_key_time":"86400","ap2_wpa_auth":"2","ap2_repeater_ssid":"TELLO-C64DA9","ap2_wl_array_id5g":"0","ap2_user_name5g":"","ap2_wl_country5g":"","ap2_wl_vlan_id5g":"0","ap2_wl_vlan_qos5g":"0","ap2_wl_enable5g":"0","ap2_ssid5g":"netis_5G_VAP2","ap2_wl_stand5g":"75","ap2_net_mode5g":"0","ap2_net_type5g":"0","ap2_wl_mac5g":"04:8d:38:59:6e:73","ap2_wl_mac_def5g":"04:8d:38:59:6e:71","ap2_ssid_broad5g":"1","ap2_channel_width5g":"2","ap2_channel_bind5g":"0","ap2_region5g":"1","ap2_channel5g":"6","ap2_sec_contr5g":"0","ap2_wds_sec_mode5g":"0","ap2_wds_key_mode_wep5g":"1","ap2_wds_key_mode_wpa5g":"1","ap2_wds_key_wep5g":"","ap2_wds_key_wpa5g":"","ap2_sec_mode5g":"0","ap2_key_size5g":"0","ap2_key_type5g":"2","ap2_key_mode_wep5g":"1","ap2_key_mode_wpa5g":"1","ap2_key_wep5g":"","ap2_key_wpa5g":"","ap2_key_time5g":"86400","ap2_wpa_auth5g":"2","ap2_repeater_ssid5g":"","ap3_wl_array_id":"0","ap3_user_name":"","ap3_wl_country":"","ap3_wl_vlan_id":"0","ap3_wl_vlan_qos":"0","ap3_wl_enable":"0","ap3_ssid":"netis_2.4G_VAP3","ap3_wl_stand":"10","ap3_net_mode":"0","ap3_net_type":"0","ap3_wl_mac":"04:8d:38:59:6e:78","ap3_wl_mac_def":"04:8d:38:59:6e:75","ap3_ssid_broad":"1","ap3_channel_width":"1","ap3_channel_bind":"0","ap3_region":"1","ap3_channel":"6","ap3_sec_contr":"0","ap3_wds_sec_mode":"0","ap3_wds_key_mode_wep":"1","ap3_wds_key_mode_wpa":"1","ap3_wds_key_wep":"","ap3_wds_key_wpa":"","ap3_sec_mode":"0","ap3_key_size":"0","ap3_key_type":"2","ap3_key_mode_wep":"1","ap3_key_mode_wpa":"1","ap3_key_wep":"","ap3_key_wpa":"","ap3_key_time":"86400","ap3_wpa_auth":"2","ap3_repeater_ssid":"TELLO-C64DA9","ap3_wl_array_id5g":"0","ap3_user_name5g":"","ap3_wl_country5g":"","ap3_wl_vlan_id5g":"0","ap3_wl_vlan_qos5g":"0","ap3_wl_enable5g":"0","ap3_ssid5g":"netis_5G_VAP3","ap3_wl_stand5g":"75","ap3_net_mode5g":"0","ap3_net_type5g":"0","ap3_wl_mac5g":"04:8d:38:59:6e:74","ap3_wl_mac_def5g":"04:8d:38:59:6e:71","ap3_ssid_broad5g":"1","ap3_channel_width5g":"2","ap3_channel_bind5g":"0","ap3_region5g":"1","ap3_channel5g":"6","ap3_sec_contr5g":"0","ap3_wds_sec_mode5g":"0","ap3_wds_key_mode_wep5g":"1","ap3_wds_key_mode_wpa5g":"1","ap3_wds_key_wep5g":"","ap3_wds_key_wpa5g":"","ap3_sec_mode5g":"0","ap3_key_size5g":"0","ap3_key_type5g":"2","ap3_key_mode_wep5g":"1","ap3_key_mode_wpa5g":"1","ap3_key_wep5g":"","ap3_key_wpa5g":"","ap3_key_time5g":"86400","ap3_wpa_auth5g":"2","ap3_repeater_ssid5g":"","repeater_ssid":"TELLO-C64DA9","rp_sec_mode":"0","rp_key_size":"0","rp_key_type":"2","rp_key_mode_wep":"1","rp_key_mode_wpa":"1","rp_key_wep":"","rp_key_wpa":"","rp_key_time":"86400","repeater_ssid5g":"","rp_sec_mode5g":"0","rp_key_size5g":"0","rp_key_type5g":"2","rp_key_mode_wep5g":"1","rp_key_mode_wpa5g":"1","rp_key_wep5g":"","rp_key_wpa5g":"","rp_key_time5g":"86400","binds_rule":"0","wl_mac_filter_enable":"0","wl_mac_filter_rule":"1","wl_mac_filter_enable_ap1":"0","wl_mac_filter_rule_ap1":"0","wl_mac_filter_enable5g":"0","wl_mac_filter_rule5g":"0","auth_type5g":"0","beacon5g":"25","rts5g":"2347","agg_status5g":"3","fragment5g":"2346","rate_mode5g":"0","shortGi5g":"1","protection5g":"1","preamble5g":"1","wlan_partition5g":"0","iapp5g":"1","out_power5g":"0","wmm5g":"1","auth_type":"0","beacon":"25","rts":"2347","agg_status":"3","fragment":"2346","rate_mode":"0","shortGi":"1","protection":"1","preamble":"1","wlan_partition":"0","iapp":"1","out_power":"0","wmm":"1","dhcp_enable":"1","dhcp_start_ip":"192.168.1.10","dhcp_end_ip":"192.168.1.254","dhcp_time":"7200","exist_5g":"1","dmz_enable":"0","dmz_ip":"0.0.0.0","super_dmz_enable":"0","super_dmz_addr":"00:00:00:00:00:00","upnp_enable":"1","ftp_port":"21","ftp_enable":"1","ipsec_enable":"1","l2tp_enable":"1","pptp_enable":"1","remote_enable":"0","remote_port":"8080","ip_filter_enable":"0","ip_filter_rule":"0","mac_filter_enable":"0","mac_filter_rule":"0","dns_filter_enable":"0","dns_filter_rule":"0","qos_enable":"0","qos_up_rule":"0","qos_speed_up":"0","qos_down_rule":"0","qos_speed_down":"0","syslog_serveraddr":"0.0.0.0","ddns_enable":"0","ddns_sp":"0","ddns_port":"0","ddns_username":"","ddns_password":"","ddns_change_name":"[ ]","ddns_domain":"","ddns_info":[ ],"time_now":"10/14/2020 22:31:26","timezone":"-8 1","time_type":"1","daylight_save":"0","time_server":"time.windows.com","time_date":"2020","time_date2":"10","time_date3":"14","time_time":"22","time_time2":"31","time_time3":"26","old_user":"","def_pwd_flag":"1","old_pwd":"","wakeup_mac":"00:00:00:00:00:00","statistics_list":[{"type":"LAN","tx_pack":"18932971","rx_pack":"7604037","tx_bytes":"2474253","rx_bytes":"2834264"},{"type":"WAN","tx_pack":"51819103","rx_pack":"986671804","tx_bytes":"3430467","rx_bytes":"351995"},{"type":"WLAN2.4G","tx_pack":"99353530","rx_pack":"35184272","tx_bytes":"1821532","rx_bytes":"1531274"},{"type":"WLAN5G","tx_pack":"196471868","rx_pack":"223700340","tx_bytes":"7586915","rx_bytes":"5028682"}],"yandex_dns_enable":"0","yandex_dns_a":"0.0.0.0","yandex_dns_b":"0.0.0.0","yandex_dns_list":[],"interface_list":[{"id":"0","iface":"WAN","iface_mode":"0","st":"0","sp":"0M","sg":"0"},{"id":"1","iface":"LAN1","iface_mode":"0","st":"0","sp":"0M","sg":"0"},{"id":"2","iface":"LAN2","iface_mode":"0","st":"0","sp":"0M","sg":"0"},{"id":"3","iface":"LAN3","iface_mode":"0","st":"0","sp":"0M","sg":"0"},{"id":"4","iface":"LAN4","iface_mode":"0","st":"0","sp":"0M","sg":"0"}],"custom_feature":{"FEATURE_TIME_DAYLIGHT":"1","FEATURE_WEB_YANDEX_DNS_SUPPORT":"1","FEATURE_SCHELD_REBOOT":"1","FEATURE_TIME_DAYLIGHT":"1","FEATURE_WEB_YANDEX_DNS_SUPPORT":"1","FEATURE_SCHELD_REBOOT":"1"},"wl_mac_filter_list":[],"wl_mac_filter_list_ap1":[],"wl_mac_filter_list5g":[],"wl_wds_list":[],"wl_wds_list5g":[],"dhcp_client_list":[{"id":"1","ip":"192.168.1.10","mac":"d0:27:88:73:29:ae","host":"DESKTOP-6EABU66","reserved":"Dynamic","status":"1"},{"id":"2","ip":"192.168.1.11","mac":"00:37:6d:ef:f4:b9","host":"","reserved":"Dynamic","status":"1"},{"id":"3","ip":"192.168.1.12","mac":"52:1d:19:bf:53:ea","host":"","reserved":"Dynamic","status":"1"},{"id":"4","ip":"192.168.1.14","mac":"90:2b:d2:f5:46:db","host":"Honor_9_Lite-c8b0b12b11ad","reserved":"Dynamic","status":"1"},{"id":"5","ip":"192.168.1.15","mac":"68:27:37:cb:e4:08","host":"","reserved":"Dynamic","status":"1"},{"id":"6","ip":"192.168.1.16","mac":"00:87:01:e2:40:cd","host":"android-76350e3e56191942","reserved":"Dynamic","status":"1"},{"id":"7","ip":"192.168.1.17","mac":"e0:d0:83:52:15:93","host":"Galaxy-A71000","reserved":"Dynamic","status":"1"},{"id":"8","ip":"192.168.1.19","mac":"48:0f:cf:33:54:19","host":"EPRUIZHW0298","reserved":"Dynamic","status":"1"},{"id":"9","ip":"192.168.1.24","mac":"28:c6:3f:16:4e:28","host":"Cube","reserved":"Dynamic","status":"1"},{"id":"10","ip":"192.168.1.23","mac":"b4:3a:28:f9:31:f9","host":"android-2471944abfcd0e3f","reserved":"Dynamic","status":"1"},{"id":"11","ip":"192.168.1.34","mac":"90:09:17:73:25:33","host":"android-1e32b5c6a59e64f","reserved":"Dynamic","status":"1"}],"reservation_list":[],"arp_list":[{"id":"1","arp_ip":"192.168.1.15","arp_mac":"68:27:37:cb:e4:08","arp_st":"0x2","arp_dev":"br0"},{"id":"2","arp_ip":"192.168.1.19","arp_mac":"48:0f:cf:33:54:19","arp_st":"0x2","arp_dev":"br0"},{"id":"3","arp_ip":"192.168.1.24","arp_mac":"28:c6:3f:16:4e:28","arp_st":"0x2","arp_dev":"br0"},{"id":"4","arp_ip":"192.168.1.16","arp_mac":"00:87:01:e2:40:cd","arp_st":"0x2","arp_dev":"br0"},{"id":"5","arp_ip":"192.168.1.26","arp_mac":"50:b7:c3:19:df:37","arp_st":"0x0","arp_dev":"br0"},{"id":"6","arp_ip":"192.168.1.14","arp_mac":"90:2b:d2:f5:46:db","arp_st":"0x2","arp_dev":"br0"},{"id":"7","arp_ip":"192.168.1.23","arp_mac":"b4:3a:28:f9:31:f9","arp_st":"0x2","arp_dev":"br0"},{"id":"8","arp_ip":"192.168.1.5","arp_mac":"00:26:18:52:ba:85","arp_st":"0x2","arp_dev":"br0"},{"id":"9","arp_ip":"192.168.1.4","arp_mac":"00:00:00:00:00:00","arp_st":"0x0","arp_dev":"br0"},{"id":"10","arp_ip":"192.168.1.12","arp_mac":"52:1d:19:bf:53:ea","arp_st":"0x2","arp_dev":"br0"},{"id":"11","arp_ip":"192.168.1.10","arp_mac":"d0:27:88:73:29:ae","arp_st":"0x2","arp_dev":"br0"}],"virtual_server_list":[{"id":"1","vir_name":"grafana","vir_ip":"192.168.1.4","vir_proto":"3","vir_outport_start":"3000","vir_outport_end":"3000","vir_inport_start":"3000","vir_inport_end":"3000"},{"id":"2","vir_name":"wg","vir_ip":"192.168.1.4","vir_proto":"2","vir_outport_start":"22334","vir_outport_end":"22334","vir_inport_start":"22334","vir_inport_end":"22334"},{"id":"3","vir_name":"minecraft","vir_ip":"192.168.1.4","vir_proto":"3","vir_outport_start":"25565","vir_outport_end":"25565","vir_inport_start":"25565","vir_inport_end":"25565"},{"id":"4","vir_name":"shelly","vir_ip":"192.168.1.2","vir_proto":"3","vir_outport_start":"22","vir_outport_end":"22","vir_inport_start":"22","vir_inport_end":"22"},{"id":"5","vir_name":"https","vir_ip":"192.168.1.2","vir_proto":"3","vir_outport_start":"443","vir_outport_end":"443","vir_inport_start":"443","vir_inport_end":"443"},{"id":"6","vir_name":"http","vir_ip":"192.168.1.2","vir_proto":"1","vir_outport_start":"80","vir_outport_end":"80","vir_inport_start":"80","vir_inport_end":"80"}],"app_port_list":[],"ip_filter_list":[],"mac_filter_list":[],"dns_filter_list":[],"static_routing_list":[],"qos_rule_list":[],"sys_log":[{"id":"1","log":"0,CONNECTION,2020-10-12 17:14:04,udhcpc,40,id=1:,['dhcp_receive_request']"},{"id":"2","log":"0,CONNECTION,2020-10-12 17:14:04,udhcpc,18,id=1:,['dhcp_sending_ack','192.168.1.12']"},{"id":"3","log":"0,CONNECTION,2020-10-12 17:33:34,udhcpc,22,id=1:,['dhcp_receive_request']"},{"id":"4","log":"0,CONNECTION,2020-10-12 17:43:29,udhcpc,21,id=1:,['dhcp_receive_discover']"},{"id":"5","log":"0,CONNECTION,2020-10-12 17:43:29,udhcpc,19,id=1:,['dhcp_sending_offer','192.168.1.34']"},{"id":"6","log":"0,CONNECTION,2020-10-12 17:43:29,udhcpc,23,id=1:,['dhcp_receive_request']"},{"id":"7","log":"0,CONNECTION,2020-10-12 17:43:29,udhcpc,25,id=1:,['dhcp_sending_ack','192.168.1.34']"},{"id":"8","log":"0,CONNECTION,2020-10-12 18:33:34,udhcpc,31,id=1:,['dhcp_receive_request']"},{"id":"9","log":"0,CONNECTION,2020-10-12 18:33:34,udhcpc,19,id=1:,['dhcp_sending_ack','192.168.1.15']"},{"id":"10","log":"0,CONNECTION,2020-10-12 18:50:36,udhcpc,22,id=1:,['dhcp_receive_discover']"},{"id":"11","log":"0,CONNECTION,2020-10-12 19:04:20,udhcpc,18,id=1:,['dhcp_receive_request']"},{"id":"12","log":"0,CONNECTION,2020-10-12 19:07:16,udhcpc,20,id=1:,['dhcp_receive_discover']"},{"id":"13","log":"0,CONNECTION,2020-10-12 19:14:22,udhcpc,32,id=1:,['dhcp_receive_request']"},{"id":"14","log":"0,CONNECTION,2020-10-12 19:14:22,udhcpc,24,id=1:,['dhcp_sending_ack','192.168.1.24']"},{"id":"15","log":"0,CONNECTION,2020-10-12 19:33:34,udhcpc,37,id=1:,['dhcp_receive_request']"},{"id":"16","log":"0,CONNECTION,2020-10-12 19:33:59,udhcpc,15,id=1:,['dhcp_receive_discover']"},{"id":"17","log":"0,CONNECTION,2020-10-12 19:34:17,udhcpc,27,id=1:,['dhcp_receive_request']"},{"id":"18","log":"0,CONNECTION,2020-10-12 19:34:17,udhcpc,15,id=1:,['dhcp_sending_ack','192.168.1.36']"},{"id":"19","log":"0,CONNECTION,2020-10-12 20:01:24,udhcpc,21,id=1:,['dhcp_receive_discover']"},{"id":"20","log":"0,CONNECTION,2020-10-12 20:01:25,udhcpc,16,id=1:,['dhcp_sending_offer','192.168.1.20']"},{"id":"21","log":"0,CONNECTION,2020-10-12 20:01:25,udhcpc,57,id=1:,['dhcp_receive_discover']"},{"id":"22","log":"0,CONNECTION,2020-10-12 20:01:25,udhcpc,14,id=1:,['dhcp_sending_offer','192.168.1.20']"},{"id":"23","log":"0,CONNECTION,2020-10-12 20:01:25,udhcpc,31,id=1:,['dhcp_receive_request']"},{"id":"24","log":"0,CONNECTION,2020-10-12 20:01:25,udhcpc,23,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"25","log":"0,CONNECTION,2020-10-12 20:07:16,udhcpc,19,id=1:,['dhcp_receive_request']"},{"id":"26","log":"0,CONNECTION,2020-10-12 20:07:16,udhcpc,23,id=1:,['dhcp_sending_ack','192.168.1.11']"},{"id":"27","log":"0,CONNECTION,2020-10-12 20:16:03,udhcpc,32,id=1:,['dhcp_receive_request']"},{"id":"28","log":"0,CONNECTION,2020-10-12 20:17:25,udhcpc,29,id=1:,['dhcp_receive_discover']"},{"id":"29","log":"0,CONNECTION,2020-10-12 20:17:25,udhcpc,14,id=1:,['dhcp_sending_offer','192.168.1.12']"},{"id":"30","log":"0,CONNECTION,2020-10-12 20:17:25,udhcpc,30,id=1:,['dhcp_receive_request']"},{"id":"31","log":"0,CONNECTION,2020-10-12 20:17:25,udhcpc,18,id=1:,['dhcp_sending_ack','192.168.1.12']"},{"id":"32","log":"0,CONNECTION,2020-10-12 20:22:41,udhcpc,29,id=1:,['dhcp_receive_request']"},{"id":"33","log":"0,CONNECTION,2020-10-12 20:22:41,udhcpc,22,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"34","log":"0,CONNECTION,2020-10-12 20:28:10,udhcpc,24,id=1:,['dhcp_receive_request']"},{"id":"35","log":"0,CONNECTION,2020-10-12 20:28:10,udhcpc,30,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"36","log":"0,CONNECTION,2020-10-12 20:30:55,udhcpc,34,id=1:,['dhcp_receive_request']"},{"id":"37","log":"0,CONNECTION,2020-10-12 20:30:55,udhcpc,15,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"38","log":"0,CONNECTION,2020-10-12 20:30:58,udhcpc,37,id=1:,['dhcp_receive_request']"},{"id":"39","log":"0,CONNECTION,2020-10-12 20:30:58,udhcpc,16,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"40","log":"0,CONNECTION,2020-10-12 20:32:52,udhcpc,18,id=1:,['dhcp_receive_request']"},{"id":"41","log":"0,CONNECTION,2020-10-12 20:32:52,udhcpc,24,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"42","log":"0,CONNECTION,2020-10-12 21:01:11,udhcpc,24,id=1:,['dhcp_receive_request']"},{"id":"43","log":"0,CONNECTION,2020-10-12 21:01:11,udhcpc,30,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"44","log":"0,CONNECTION,2020-10-12 21:13:34,udhcpc,24,id=1:,['dhcp_receive_request']"},{"id":"45","log":"0,CONNECTION,2020-10-12 21:13:34,udhcpc,18,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"46","log":"0,CONNECTION,2020-10-12 21:13:39,udhcpc,23,id=1:,['dhcp_receive_request']"},{"id":"47","log":"0,CONNECTION,2020-10-12 21:13:39,udhcpc,33,id=1:,['dhcp_sending_ack','192.168.1.23']"},{"id":"48","log":"0,CONNECTION,2020-10-12 21:27:25,udhcpc,34,id=1:,['dhcp_receive_request']"},{"id":"49","log":"0,CONNECTION,2020-10-12 21:27:35,udhcpc,29,id=1:,['dhcp_receive_discover']"},{"id":"50","log":"0,CONNECTION,2020-10-12 21:44:38,udhcpc,23,id=1:,['dhcp_receive_request']"},{"id":"51","log":"0,CONNECTION,2020-10-12 21:44:38,udhcpc,22,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"52","log":"0,CONNECTION,2020-10-12 21:45:08,udhcpc,14,id=1:,['dhcp_receive_request']"},{"id":"53","log":"0,CONNECTION,2020-10-12 21:45:08,udhcpc,36,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"54","log":"0,CONNECTION,2020-10-12 21:51:20,udhcpc,15,id=1:,['dhcp_receive_request']"},{"id":"55","log":"0,CONNECTION,2020-10-12 21:51:20,udhcpc,18,id=1:,['dhcp_sending_ack','192.168.1.10']"},{"id":"56","log":"0,CONNECTION,2020-10-12 22:41:54,udhcpc,31,id=1:,['dhcp_receive_request']"},{"id":"57","log":"0,CONNECTION,2020-10-12 22:45:08,udhcpc,19,id=1:,['dhcp_receive_discover']"},{"id":"58","log":"0,CONNECTION,2020-10-12 22:45:08,udhcpc,30,id=1:,['dhcp_sending_offer','192.168.1.17']"},{"id":"59","log":"0,CONNECTION,2020-10-12 22:45:08,udhcpc,16,id=1:,['dhcp_receive_request']"},{"id":"60","log":"0,CONNECTION,2020-10-12 22:45:08,udhcpc,23,id=1:,['dhcp_sending_ack','192.168.1.17']"},{"id":"61","log":"0,CONNECTION,2020-10-12 22:45:23,udhcpc,22,id=1:,['dhcp_receive_discover']"},{"id":"62","log":"0,CONNECTION,2020-10-12 22:45:23,udhcpc,16,id=1:,['dhcp_sending_offer','192.168.1.34']"},{"id":"63","log":"0,CONNECTION,2020-10-12 22:45:23,udhcpc,27,id=1:,['dhcp_receive_request']"},{"id":"64","log":"0,CONNECTION,2020-10-12 22:45:23,udhcpc,14,id=1:,['dhcp_sending_ack','192.168.1.34']"},{"id":"65","log":"0,CONNECTION,2020-10-12 22:45:50,udhcpc,19,id=1:,['dhcp_receive_request']"},{"id":"66","log":"0,CONNECTION,2020-10-12 22:45:50,udhcpc,21,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"67","log":"0,CONNECTION,2020-10-12 22:45:53,udhcpc,17,id=1:,['dhcp_receive_request']"},{"id":"68","log":"0,CONNECTION,2020-10-12 22:45:53,udhcpc,37,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"69","log":"0,CONNECTION,2020-10-12 22:47:48,udhcpc,16,id=1:,['dhcp_receive_request']"},{"id":"70","log":"0,CONNECTION,2020-10-12 22:47:48,udhcpc,22,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"71","log":"0,CONNECTION,2020-10-12 22:47:50,udhcpc,14,id=1:,['dhcp_receive_request']"},{"id":"72","log":"0,CONNECTION,2020-10-12 22:47:50,udhcpc,23,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"73","log":"0,CONNECTION,2020-10-12 22:47:59,udhcpc,16,id=1:,['dhcp_receive_request']"},{"id":"74","log":"0,CONNECTION,2020-10-12 22:47:59,udhcpc,34,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"75","log":"0,CONNECTION,2020-10-12 22:51:36,udhcpc,17,id=1:,['dhcp_receive_request']"},{"id":"76","log":"0,CONNECTION,2020-10-12 22:51:36,udhcpc,15,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"77","log":"0,CONNECTION,2020-10-12 23:01:07,udhcpc,24,id=1:,['dhcp_receive_request']"},{"id":"78","log":"0,CONNECTION,2020-10-12 23:01:07,udhcpc,20,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"79","log":"0,CONNECTION,2020-10-12 23:04:41,udhcpc,22,id=1:,['dhcp_receive_request']"},{"id":"80","log":"0,CONNECTION,2020-10-12 23:04:41,udhcpc,27,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"81","log":"0,CONNECTION,2020-10-12 23:04:52,udhcpc,13,id=1:,['dhcp_receive_request']"},{"id":"82","log":"0,CONNECTION,2020-10-12 23:04:52,udhcpc,27,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"83","log":"0,CONNECTION,2020-10-12 23:09:00,udhcpc,23,id=1:,['dhcp_receive_request']"},{"id":"84","log":"0,CONNECTION,2020-10-12 23:09:57,udhcpc,50,id=1:,['dhcp_receive_discover']"},{"id":"85","log":"0,CONNECTION,2020-10-12 23:22:07,udhcpc,32,id=1:,['dhcp_receive_request']"},{"id":"86","log":"0,CONNECTION,2020-10-12 23:22:07,udhcpc,16,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"87","log":"0,CONNECTION,2020-10-12 23:33:22,udhcpc,30,id=1:,['dhcp_receive_request']"},{"id":"88","log":"0,CONNECTION,2020-10-12 23:33:22,udhcpc,36,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"89","log":"0,CONNECTION,2020-10-12 23:33:30,udhcpc,14,id=1:,['dhcp_receive_request']"},{"id":"90","log":"0,CONNECTION,2020-10-12 23:33:30,udhcpc,21,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"91","log":"0,CONNECTION,2020-10-12 23:43:31,udhcpc,34,id=1:,['dhcp_receive_request']"},{"id":"92","log":"0,CONNECTION,2020-10-12 23:43:31,udhcpc,21,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"93","log":"0,CONNECTION,2020-10-12 23:58:08,udhcpc,36,id=1:,['dhcp_receive_request']"},{"id":"94","log":"0,CONNECTION,2020-10-12 23:58:08,udhcpc,36,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"95","log":"0,CONNECTION,2020-10-12 23:58:16,udhcpc,22,id=1:,['dhcp_receive_request']"},{"id":"96","log":"0,CONNECTION,2020-10-12 23:58:16,udhcpc,18,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"97","log":"0,CONNECTION,2020-10-12 23:58:54,udhcpc,22,id=1:,['dhcp_receive_request']"},{"id":"98","log":"0,CONNECTION,2020-10-12 23:58:54,udhcpc,26,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"99","log":"0,CONNECTION,2020-10-12 23:59:37,udhcpc,24,id=1:,['dhcp_receive_request']"},{"id":"100","log":"0,CONNECTION,2020-10-12 23:59:37,udhcpc,18,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"101","log":"0,CONNECTION,2020-10-13 00:00:30,udhcpc,19,id=1:,['dhcp_receive_request']"},{"id":"102","log":"0,CONNECTION,2020-10-13 00:00:30,udhcpc,17,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"103","log":"0,CONNECTION,2020-10-13 00:00:34,udhcpc,19,id=1:,['dhcp_receive_request']"},{"id":"104","log":"0,CONNECTION,2020-10-13 00:00:34,udhcpc,48,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"105","log":"0,CONNECTION,2020-10-13 00:01:38,udhcpc,21,id=1:,['dhcp_receive_request']"},{"id":"106","log":"0,CONNECTION,2020-10-13 00:01:38,udhcpc,21,id=1:,['dhcp_sending_ack','192.168.1.15']"},{"id":"107","log":"0,CONNECTION,2020-10-13 00:06:27,udhcpc,29,id=1:,['dhcp_receive_request']"},{"id":"108","log":"0,CONNECTION,2020-10-13 00:06:27,udhcpc,23,id=1:,['dhcp_sending_ack','192.168.1.23']"},{"id":"109","log":"0,CONNECTION,2020-10-13 00:22:16,udhcpc,28,id=1:,['dhcp_receive_request']"},{"id":"110","log":"0,CONNECTION,2020-10-13 00:22:16,udhcpc,24,id=1:,['dhcp_sending_ack','192.168.1.19']"},{"id":"111","log":"0,CONNECTION,2020-10-13 01:10:44,udhcpc,42,id=1:,['dhcp_receive_request']"},{"id":"112","log":"0,CONNECTION,2020-10-13 01:11:05,udhcpc,40,id=1:,['dhcp_receive_discover']"},{"id":"113","log":"0,CONNECTION,2020-10-13 01:22:14,udhcpc,36,id=1:,['dhcp_receive_request']"},{"id":"114","log":"0,CONNECTION,2020-10-13 01:22:14,udhcpc,25,id=1:,['dhcp_sending_ack','192.168.1.19']"},{"id":"115","log":"0,CONNECTION,2020-10-13 01:44:08,udhcpc,55,id=1:,['dhcp_receive_request']"},{"id":"116","log":"0,CONNECTION,2020-10-13 01:44:08,udhcpc,23,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"117","log":"0,CONNECTION,2020-10-13 01:47:37,udhcpc,20,id=1:,['dhcp_receive_request']"},{"id":"118","log":"0,CONNECTION,2020-10-13 01:47:48,udhcpc,24,id=1:,['dhcp_receive_discover']"},{"id":"119","log":"0,CONNECTION,2020-10-13 01:51:43,udhcpc,28,id=1:,['dhcp_receive_request']"},{"id":"120","log":"0,CONNECTION,2020-10-13 01:51:43,udhcpc,40,id=1:,['dhcp_sending_ack','192.168.1.20']"},{"id":"121","log":"0,CONNECTION,2020-10-13 01:51:48,udhcpc,53,id=1:,['dhcp_receive_request']"},{"id":"122","log":"0,CONNECTION,2020-10-13 01:51:48,udhcpc,30,id=1:,['dhcp_sending_ack','192.168.1.20']"}],"auto_update_info_list":[]}
+{
+  "backup_error": "0",
+  "config_sequence": "0",
+  "mimotype": "WF2710",
+  "hw_version_mode": "WF2710",
+  "tr_version": "1",
+  "oem_flag": "0",
+  "schedule_reboot_enable": "0",
+  "reboot_time_hour": "00",
+  "reboot_time_min": "00",
+  "reboot_day": "",
+  "interval_reboot_enable": "0",
+  "interval_reboot_time": "2",
+  "reboot_time": "00:00",
+  "mirror_status": "0",
+  "capture_port": "",
+  "source_port": "",
+  "regdomain_only_eu": "0",
+  "access_mode": "0",
+  "br_wan": "0",
+  "chip_flag": "2",
+  "version_num": "V1.2.42660",
+  "version": "netis(WF2710)-V2.1.42660,2018.01.02 16:49.",
+  "dhcp_host_name": "",
+  "language": "1",
+  "connected": "1",
+  "days": "35",
+  "hours": "15",
+  "minutes": "56",
+  "seconds": "50",
+  "cpu": "19.4%",
+  "mem": "64%",
+  "wps_enable": "0",
+  "pin": "30320031",
+  "wps_enable5g": "0",
+  "wps_lock": "0",
+  "wps_status": "1",
+  "wps_lock5g": "0",
+  "wps_status5g": "1",
+  "pin5g": "30320031",
+  "wlan_enable_1x": "0",
+  "wlan_wpa_auth": "2",
+  "dhcp_status": "1",
+  "real_channel": "2",
+  "real_channel5g": "44",
+  "conntype": "3",
+  "tag_type": "0",
+  "wan_ip": "",
+  "wan_mask": "",
+  "wan_gw": "",
+  "ip": "94.181.73.66",
+  "mask": "255.255.255.255",
+  "gw": "188.233.238.254",
+  "ppp_gw_enable": "0",
+  "bridge_ip": "192.168.1.1",
+  "bridge_mask": "255.255.255.0",
+  "bridge_gw": "192.168.1.2",
+  "br_ip": "192.168.1.1",
+  "br_mask": "255.255.255.0",
+  "br_gw": "188.233.238.254",
+  "wan_run_time": "0",
+  "second_type": "1",
+  "second_dmz_ip": "0.0.0.0",
+  "second_static_ip": "0.0.0.0",
+  "second_static_mask": "0.0.0.0",
+  "second_ip": "0.0.0.0",
+  "second_mask": "0.0.0.0",
+  "second_gw": "0.0.0.0",
+  "dhcp_mtu": "1500",
+  "pppoe_mtu": "1480",
+  "static_mtu": "1500",
+  "wan_dns_a": "0.0.0.0",
+  "wan_dns_b": "0.0.0.0",
+  "dns_a": "91.144.164.1",
+  "dns_b": "5.3.3.3",
+  "br_dns_a": "91.144.164.1",
+  "br_dns_b": "5.3.3.3",
+  "pppoe_username": "v01958652",
+  "pppoe_pwd": "xfzm7mpp",
+  "ppp_connect_mode": "0",
+  "pppoe_service_name": "",
+  "pppoe_ac_name": "",
+  "ppp_time": "5",
+  "l2tp_username": "",
+  "l2tp_pwd": "",
+  "l2tp_server_name": "",
+  "l2tp_server_ip": "",
+  "l2tp_ip": "0.0.0.0",
+  "l2tp_mask": "0.0.0.0",
+  "l2tp_gw": "0.0.0.0",
+  "l2tp_mtu": "1460",
+  "l2tp_connect_mode": "0",
+  "l2tp_time": "5",
+  "l2tp_gw_enable": "0",
+  "pptp_username": "",
+  "pptp_pwd": "",
+  "pptp_server_name": "",
+  "pptp_server_ip": "",
+  "pptp_ip": "0.0.0.0",
+  "pptp_mask": "0.0.0.0",
+  "pptp_gw": "0.0.0.0",
+  "pptp_mtu": "1420",
+  "pptp_connect_mode": "0",
+  "pptp_time": "5",
+  "pptp_gw_enable": "0",
+  "ns_ver": "0",
+  "lan_mac": "04:8d:38:59:6e:71",
+  "lan_ip": "192.168.1.1",
+  "def_lan_ip": "192.168.1.1",
+  "lan_mask": "255.255.255.0",
+  "lan_start": "192.168.1.1",
+  "lan_end": "192.168.1.254",
+  "default_gw": "0.0.0.0",
+  "mac_addr": "04:8d:38:59:6e:79",
+  "mac_default": "04:8d:38:59:6e:79",
+  "mac_clone": "48:0f:cf:33:54:19",
+  "wan": "0",
+  "lan1": "0",
+  "lan2": "0",
+  "lan3": "0",
+  "lan4": "0",
+  "igmp_enable": "1",
+  "igmp_snooping_enable": "1",
+  "work_mode": "0",
+  "br_mode": "0",
+  "iptv_mode": "0",
+  "iptv_port": "0",
+  "vlan_tag_enable": "0",
+  "vlan_id_inter": "0",
+  "vlan_pri_inter": "0",
+  "vlan_id_iptv": "0",
+  "vlan_pri_iptv": "0",
+  "mvlan_id_iptv": "0",
+  "mvlan_pri_iptv": "0",
+  "vlan_id_phone": "0",
+  "vlan_pri_phone": "0",
+  "iptv_lan1_mode": "0",
+  "iptv_lan2_mode": "0",
+  "iptv_lan3_mode": "0",
+  "iptv_lan4_mode": "0",
+  "tools_type": "1",
+  "tools_count": "4",
+  "tools_pkt_size": "64",
+  "tools_timeout": "1000",
+  "tools_ttl": "20",
+  "tools_ip_url": "8888",
+  "tools_results": "",
+  "NetModeFlag": "0",
+  "NetModeFlag5g": "0",
+  "repeater_mac": "00:00:00:00:00:00",
+  "wisp_rssi": "0",
+  "enable_1x": "0",
+  "RS_ip": "0.0.0.0",
+  "RS_port": "1812",
+  "RS_pwd": "",
+  "enable_1x5g": "0",
+  "RS_ip5g": "0.0.0.0",
+  "RS_port5g": "1812",
+  "RS_pwd5g": "",
+  "g_virtualife_num": "3",
+  "wl_array_id": "0",
+  "user_name": "",
+  "wl_country": "",
+  "wl_vlan_id": "0",
+  "wl_vlan_qos": "0",
+  "repeater_enable": "0",
+  "wl_enable": "1",
+  "ssid": "netis_24",
+  "wl_stand": "10",
+  "net_mode": "0",
+  "wl_config": "0",
+  "net_type": "0",
+  "wl_mac": "04:8d:38:59:6e:75",
+  "wl_mac_def": "04:8d:38:59:6e:75",
+  "ssid_broad": "1",
+  "channel_width": "0",
+  "channel_width_auto": "0",
+  "channel_bind": "0",
+  "region": "12",
+  "channel": "2",
+  "sec_contr": "0",
+  "wds_sec_mode": "0",
+  "wds_key_mode_wep": "1",
+  "wds_key_mode_wpa": "1",
+  "wds_key_wep": "",
+  "wds_key_wpa": "",
+  "sec_mode": "4",
+  "key_size": "0",
+  "key_type": "3",
+  "key_mode_wep": "1",
+  "key_mode_wpa": "1",
+  "key_wep": "",
+  "key_wpa": "optanex14",
+  "key_time": "86400",
+  "wpa_auth": "2",
+  "repeater_ssid": "TELLO-C64DA9",
+  "wsc_disable": "1",
+  "wsc_ssid": "netis_24",
+  "wsc_psk": "optanex14",
+  "wsc_auth": "34",
+  "wsc_enc": "12",
+  "wsc_config_by_ext_reg": "0",
+  "wsc_configured": "1",
+  "wl_array_id5g": "0",
+  "user_name5g": "",
+  "wl_country5g": "",
+  "wl_vlan_id5g": "0",
+  "wl_vlan_qos5g": "0",
+  "repeater_enable5g": "0",
+  "wl_enable5g": "1",
+  "ssid5g": "netis_5",
+  "wl_stand5g": "75",
+  "net_mode5g": "0",
+  "wl_config5g": "0",
+  "net_type5g": "0",
+  "wl_mac5g": "04:8d:38:59:6e:71",
+  "wl_mac_def5g": "04:8d:38:59:6e:71",
+  "ssid_broad5g": "1",
+  "channel_width5g": "1",
+  "channel_bind5g": "0",
+  "region5g": "1",
+  "channel5g": "44",
+  "sec_contr5g": "0",
+  "wds_sec_mode5g": "0",
+  "wds_key_mode_wep5g": "1",
+  "wds_key_mode_wpa5g": "1",
+  "wds_key_wep5g": "",
+  "wds_key_wpa5g": "",
+  "sec_mode5g": "4",
+  "key_size5g": "0",
+  "key_type5g": "3",
+  "key_mode_wep5g": "1",
+  "key_mode_wpa5g": "1",
+  "key_wep5g": "",
+  "key_wpa5g": "optanex14",
+  "key_time5g": "86400",
+  "wpa_auth5g": "2",
+  "repeater_ssid5g": "",
+  "wsc_ssid5g": "netis_5",
+  "wsc_psk5g": "optanex14",
+  "wsc_auth5g": "34",
+  "wsc_enc5g": "12",
+  "wsc_config_by_ext_reg5g": "0",
+  "wsc_configured5g": "1",
+  "ap1_wl_array_id": "0",
+  "ap1_user_name": "",
+  "ap1_wl_country": "",
+  "ap1_wl_vlan_id": "0",
+  "ap1_wl_vlan_qos": "0",
+  "ap1_wl_enable": "1",
+  "ap1_ssid": "guest_ssid",
+  "ap1_wl_stand": "10",
+  "ap1_net_mode": "0",
+  "ap1_net_type": "0",
+  "ap1_wl_mac": "04:8d:38:59:6e:76",
+  "ap1_wl_mac_def": "04:8d:38:59:6e:75",
+  "ap1_ssid_broad": "1",
+  "ap1_channel_width": "1",
+  "ap1_channel_bind": "0",
+  "ap1_region": "1",
+  "ap1_channel": "6",
+  "ap1_sec_contr": "0",
+  "ap1_wds_sec_mode": "0",
+  "ap1_wds_key_mode_wep": "1",
+  "ap1_wds_key_mode_wpa": "1",
+  "ap1_wds_key_wep": "",
+  "ap1_wds_key_wpa": "",
+  "ap1_sec_mode": "3",
+  "ap1_key_size": "0",
+  "ap1_key_type": "2",
+  "ap1_key_mode_wep": "1",
+  "ap1_key_mode_wpa": "1",
+  "ap1_key_wep": "",
+  "ap1_key_wpa": "62382392",
+  "ap1_key_time": "86400",
+  "ap1_wpa_auth": "2",
+  "ap1_repeater_ssid": "TELLO-C64DA9",
+  "ap1_wl_array_id5g": "0",
+  "ap1_user_name5g": "",
+  "ap1_wl_country5g": "",
+  "ap1_wl_vlan_id5g": "0",
+  "ap1_wl_vlan_qos5g": "0",
+  "ap1_wl_enable5g": "0",
+  "ap1_ssid5g": "netis_5G_VAP1",
+  "ap1_wl_stand5g": "75",
+  "ap1_net_mode5g": "0",
+  "ap1_net_type5g": "0",
+  "ap1_wl_mac5g": "04:8d:38:59:6e:72",
+  "ap1_wl_mac_def5g": "04:8d:38:59:6e:71",
+  "ap1_ssid_broad5g": "1",
+  "ap1_channel_width5g": "2",
+  "ap1_channel_bind5g": "0",
+  "ap1_region5g": "1",
+  "ap1_channel5g": "6",
+  "ap1_sec_contr5g": "0",
+  "ap1_wds_sec_mode5g": "0",
+  "ap1_wds_key_mode_wep5g": "1",
+  "ap1_wds_key_mode_wpa5g": "1",
+  "ap1_wds_key_wep5g": "",
+  "ap1_wds_key_wpa5g": "",
+  "ap1_sec_mode5g": "0",
+  "ap1_key_size5g": "0",
+  "ap1_key_type5g": "2",
+  "ap1_key_mode_wep5g": "1",
+  "ap1_key_mode_wpa5g": "1",
+  "ap1_key_wep5g": "",
+  "ap1_key_wpa5g": "",
+  "ap1_key_time5g": "86400",
+  "ap1_wpa_auth5g": "2",
+  "ap1_repeater_ssid5g": "",
+  "ap2_wl_array_id": "0",
+  "ap2_user_name": "",
+  "ap2_wl_country": "",
+  "ap2_wl_vlan_id": "0",
+  "ap2_wl_vlan_qos": "0",
+  "ap2_wl_enable": "0",
+  "ap2_ssid": "netis_2.4G_VAP2",
+  "ap2_wl_stand": "10",
+  "ap2_net_mode": "0",
+  "ap2_net_type": "0",
+  "ap2_wl_mac": "04:8d:38:59:6e:77",
+  "ap2_wl_mac_def": "04:8d:38:59:6e:75",
+  "ap2_ssid_broad": "1",
+  "ap2_channel_width": "1",
+  "ap2_channel_bind": "0",
+  "ap2_region": "1",
+  "ap2_channel": "6",
+  "ap2_sec_contr": "0",
+  "ap2_wds_sec_mode": "0",
+  "ap2_wds_key_mode_wep": "1",
+  "ap2_wds_key_mode_wpa": "1",
+  "ap2_wds_key_wep": "",
+  "ap2_wds_key_wpa": "",
+  "ap2_sec_mode": "0",
+  "ap2_key_size": "0",
+  "ap2_key_type": "2",
+  "ap2_key_mode_wep": "1",
+  "ap2_key_mode_wpa": "1",
+  "ap2_key_wep": "",
+  "ap2_key_wpa": "",
+  "ap2_key_time": "86400",
+  "ap2_wpa_auth": "2",
+  "ap2_repeater_ssid": "TELLO-C64DA9",
+  "ap2_wl_array_id5g": "0",
+  "ap2_user_name5g": "",
+  "ap2_wl_country5g": "",
+  "ap2_wl_vlan_id5g": "0",
+  "ap2_wl_vlan_qos5g": "0",
+  "ap2_wl_enable5g": "0",
+  "ap2_ssid5g": "netis_5G_VAP2",
+  "ap2_wl_stand5g": "75",
+  "ap2_net_mode5g": "0",
+  "ap2_net_type5g": "0",
+  "ap2_wl_mac5g": "04:8d:38:59:6e:73",
+  "ap2_wl_mac_def5g": "04:8d:38:59:6e:71",
+  "ap2_ssid_broad5g": "1",
+  "ap2_channel_width5g": "2",
+  "ap2_channel_bind5g": "0",
+  "ap2_region5g": "1",
+  "ap2_channel5g": "6",
+  "ap2_sec_contr5g": "0",
+  "ap2_wds_sec_mode5g": "0",
+  "ap2_wds_key_mode_wep5g": "1",
+  "ap2_wds_key_mode_wpa5g": "1",
+  "ap2_wds_key_wep5g": "",
+  "ap2_wds_key_wpa5g": "",
+  "ap2_sec_mode5g": "0",
+  "ap2_key_size5g": "0",
+  "ap2_key_type5g": "2",
+  "ap2_key_mode_wep5g": "1",
+  "ap2_key_mode_wpa5g": "1",
+  "ap2_key_wep5g": "",
+  "ap2_key_wpa5g": "",
+  "ap2_key_time5g": "86400",
+  "ap2_wpa_auth5g": "2",
+  "ap2_repeater_ssid5g": "",
+  "ap3_wl_array_id": "0",
+  "ap3_user_name": "",
+  "ap3_wl_country": "",
+  "ap3_wl_vlan_id": "0",
+  "ap3_wl_vlan_qos": "0",
+  "ap3_wl_enable": "0",
+  "ap3_ssid": "netis_2.4G_VAP3",
+  "ap3_wl_stand": "10",
+  "ap3_net_mode": "0",
+  "ap3_net_type": "0",
+  "ap3_wl_mac": "04:8d:38:59:6e:78",
+  "ap3_wl_mac_def": "04:8d:38:59:6e:75",
+  "ap3_ssid_broad": "1",
+  "ap3_channel_width": "1",
+  "ap3_channel_bind": "0",
+  "ap3_region": "1",
+  "ap3_channel": "6",
+  "ap3_sec_contr": "0",
+  "ap3_wds_sec_mode": "0",
+  "ap3_wds_key_mode_wep": "1",
+  "ap3_wds_key_mode_wpa": "1",
+  "ap3_wds_key_wep": "",
+  "ap3_wds_key_wpa": "",
+  "ap3_sec_mode": "0",
+  "ap3_key_size": "0",
+  "ap3_key_type": "2",
+  "ap3_key_mode_wep": "1",
+  "ap3_key_mode_wpa": "1",
+  "ap3_key_wep": "",
+  "ap3_key_wpa": "",
+  "ap3_key_time": "86400",
+  "ap3_wpa_auth": "2",
+  "ap3_repeater_ssid": "TELLO-C64DA9",
+  "ap3_wl_array_id5g": "0",
+  "ap3_user_name5g": "",
+  "ap3_wl_country5g": "",
+  "ap3_wl_vlan_id5g": "0",
+  "ap3_wl_vlan_qos5g": "0",
+  "ap3_wl_enable5g": "0",
+  "ap3_ssid5g": "netis_5G_VAP3",
+  "ap3_wl_stand5g": "75",
+  "ap3_net_mode5g": "0",
+  "ap3_net_type5g": "0",
+  "ap3_wl_mac5g": "04:8d:38:59:6e:74",
+  "ap3_wl_mac_def5g": "04:8d:38:59:6e:71",
+  "ap3_ssid_broad5g": "1",
+  "ap3_channel_width5g": "2",
+  "ap3_channel_bind5g": "0",
+  "ap3_region5g": "1",
+  "ap3_channel5g": "6",
+  "ap3_sec_contr5g": "0",
+  "ap3_wds_sec_mode5g": "0",
+  "ap3_wds_key_mode_wep5g": "1",
+  "ap3_wds_key_mode_wpa5g": "1",
+  "ap3_wds_key_wep5g": "",
+  "ap3_wds_key_wpa5g": "",
+  "ap3_sec_mode5g": "0",
+  "ap3_key_size5g": "0",
+  "ap3_key_type5g": "2",
+  "ap3_key_mode_wep5g": "1",
+  "ap3_key_mode_wpa5g": "1",
+  "ap3_key_wep5g": "",
+  "ap3_key_wpa5g": "",
+  "ap3_key_time5g": "86400",
+  "ap3_wpa_auth5g": "2",
+  "ap3_repeater_ssid5g": "",
+  "repeater_ssid": "TELLO-C64DA9",
+  "rp_sec_mode": "0",
+  "rp_key_size": "0",
+  "rp_key_type": "2",
+  "rp_key_mode_wep": "1",
+  "rp_key_mode_wpa": "1",
+  "rp_key_wep": "",
+  "rp_key_wpa": "",
+  "rp_key_time": "86400",
+  "repeater_ssid5g": "",
+  "rp_sec_mode5g": "0",
+  "rp_key_size5g": "0",
+  "rp_key_type5g": "2",
+  "rp_key_mode_wep5g": "1",
+  "rp_key_mode_wpa5g": "1",
+  "rp_key_wep5g": "",
+  "rp_key_wpa5g": "",
+  "rp_key_time5g": "86400",
+  "binds_rule": "0",
+  "wl_mac_filter_enable": "0",
+  "wl_mac_filter_rule": "1",
+  "wl_mac_filter_enable_ap1": "0",
+  "wl_mac_filter_rule_ap1": "0",
+  "wl_mac_filter_enable5g": "0",
+  "wl_mac_filter_rule5g": "0",
+  "auth_type5g": "0",
+  "beacon5g": "25",
+  "rts5g": "2347",
+  "agg_status5g": "3",
+  "fragment5g": "2346",
+  "rate_mode5g": "0",
+  "shortGi5g": "1",
+  "protection5g": "1",
+  "preamble5g": "1",
+  "wlan_partition5g": "0",
+  "iapp5g": "1",
+  "out_power5g": "0",
+  "wmm5g": "1",
+  "auth_type": "0",
+  "beacon": "25",
+  "rts": "2347",
+  "agg_status": "3",
+  "fragment": "2346",
+  "rate_mode": "0",
+  "shortGi": "1",
+  "protection": "1",
+  "preamble": "1",
+  "wlan_partition": "0",
+  "iapp": "1",
+  "out_power": "0",
+  "wmm": "1",
+  "dhcp_enable": "1",
+  "dhcp_start_ip": "192.168.1.10",
+  "dhcp_end_ip": "192.168.1.254",
+  "dhcp_time": "7200",
+  "exist_5g": "1",
+  "dmz_enable": "0",
+  "dmz_ip": "0.0.0.0",
+  "super_dmz_enable": "0",
+  "super_dmz_addr": "00:00:00:00:00:00",
+  "upnp_enable": "1",
+  "ftp_port": "21",
+  "ftp_enable": "1",
+  "ipsec_enable": "1",
+  "l2tp_enable": "1",
+  "pptp_enable": "1",
+  "remote_enable": "0",
+  "remote_port": "8080",
+  "ip_filter_enable": "0",
+  "ip_filter_rule": "0",
+  "mac_filter_enable": "0",
+  "mac_filter_rule": "0",
+  "dns_filter_enable": "0",
+  "dns_filter_rule": "0",
+  "qos_enable": "0",
+  "qos_up_rule": "0",
+  "qos_speed_up": "0",
+  "qos_down_rule": "0",
+  "qos_speed_down": "0",
+  "syslog_serveraddr": "0.0.0.0",
+  "ddns_enable": "0",
+  "ddns_sp": "0",
+  "ddns_port": "0",
+  "ddns_username": "",
+  "ddns_password": "",
+  "ddns_change_name": "[ ]",
+  "ddns_domain": "",
+  "ddns_info": [],
+  "time_now": "10/14/2020 22:31:26",
+  "timezone": "-8 1",
+  "time_type": "1",
+  "daylight_save": "0",
+  "time_server": "time.windows.com",
+  "time_date": "2020",
+  "time_date2": "10",
+  "time_date3": "14",
+  "time_time": "22",
+  "time_time2": "31",
+  "time_time3": "26",
+  "old_user": "",
+  "def_pwd_flag": "1",
+  "old_pwd": "",
+  "wakeup_mac": "00:00:00:00:00:00",
+  "statistics_list": [
+    {
+      "type": "LAN",
+      "tx_pack": "18932971",
+      "rx_pack": "7604037",
+      "tx_bytes": "2474253",
+      "rx_bytes": "2834264"
+    },
+    {
+      "type": "WAN",
+      "tx_pack": "51819103",
+      "rx_pack": "986671804",
+      "tx_bytes": "3430467",
+      "rx_bytes": "351995"
+    },
+    {
+      "type": "WLAN2.4G",
+      "tx_pack": "99353530",
+      "rx_pack": "35184272",
+      "tx_bytes": "1821532",
+      "rx_bytes": "1531274"
+    },
+    {
+      "type": "WLAN5G",
+      "tx_pack": "196471868",
+      "rx_pack": "223700340",
+      "tx_bytes": "7586915",
+      "rx_bytes": "5028682"
+    }
+  ],
+  "yandex_dns_enable": "0",
+  "yandex_dns_a": "0.0.0.0",
+  "yandex_dns_b": "0.0.0.0",
+  "yandex_dns_list": [],
+  "interface_list": [
+    {
+      "id": "0",
+      "iface": "WAN",
+      "iface_mode": "0",
+      "st": "0",
+      "sp": "0M",
+      "sg": "0"
+    },
+    {
+      "id": "1",
+      "iface": "LAN1",
+      "iface_mode": "0",
+      "st": "0",
+      "sp": "0M",
+      "sg": "0"
+    },
+    {
+      "id": "2",
+      "iface": "LAN2",
+      "iface_mode": "0",
+      "st": "0",
+      "sp": "0M",
+      "sg": "0"
+    },
+    {
+      "id": "3",
+      "iface": "LAN3",
+      "iface_mode": "0",
+      "st": "0",
+      "sp": "0M",
+      "sg": "0"
+    },
+    {
+      "id": "4",
+      "iface": "LAN4",
+      "iface_mode": "0",
+      "st": "0",
+      "sp": "0M",
+      "sg": "0"
+    }
+  ],
+  "custom_feature": {
+    "FEATURE_TIME_DAYLIGHT": "1",
+    "FEATURE_WEB_YANDEX_DNS_SUPPORT": "1",
+    "FEATURE_SCHELD_REBOOT": "1",
+    "FEATURE_TIME_DAYLIGHT": "1",
+    "FEATURE_WEB_YANDEX_DNS_SUPPORT": "1",
+    "FEATURE_SCHELD_REBOOT": "1"
+  },
+  "wl_mac_filter_list": [],
+  "wl_mac_filter_list_ap1": [],
+  "wl_mac_filter_list5g": [],
+  "wl_wds_list": [],
+  "wl_wds_list5g": [],
+  "dhcp_client_list": [
+    {
+      "id": "1",
+      "ip": "192.168.1.10",
+      "mac": "d0:27:88:73:29:ae",
+      "host": "DESKTOP-6EABU66",
+      "reserved": "Dynamic",
+      "status": "1"
+    },
+    {
+      "id": "2",
+      "ip": "192.168.1.11",
+      "mac": "00:37:6d:ef:f4:b9",
+      "host": "",
+      "reserved": "Dynamic",
+      "status": "1"
+    },
+    {
+      "id": "3",
+      "ip": "192.168.1.12",
+      "mac": "52:1d:19:bf:53:ea",
+      "host": "",
+      "reserved": "Dynamic",
+      "status": "1"
+    },
+    {
+      "id": "4",
+      "ip": "192.168.1.14",
+      "mac": "90:2b:d2:f5:46:db",
+      "host": "Honor_9_Lite-c8b0b12b11ad",
+      "reserved": "Dynamic",
+      "status": "1"
+    },
+    {
+      "id": "5",
+      "ip": "192.168.1.15",
+      "mac": "68:27:37:cb:e4:08",
+      "host": "",
+      "reserved": "Dynamic",
+      "status": "1"
+    },
+    {
+      "id": "6",
+      "ip": "192.168.1.16",
+      "mac": "00:87:01:e2:40:cd",
+      "host": "android-76350e3e56191942",
+      "reserved": "Dynamic",
+      "status": "1"
+    },
+    {
+      "id": "7",
+      "ip": "192.168.1.17",
+      "mac": "e0:d0:83:52:15:93",
+      "host": "Galaxy-A71000",
+      "reserved": "Dynamic",
+      "status": "1"
+    },
+    {
+      "id": "8",
+      "ip": "192.168.1.19",
+      "mac": "48:0f:cf:33:54:19",
+      "host": "EPRUIZHW0298",
+      "reserved": "Dynamic",
+      "status": "1"
+    },
+    {
+      "id": "9",
+      "ip": "192.168.1.24",
+      "mac": "28:c6:3f:16:4e:28",
+      "host": "Cube",
+      "reserved": "Dynamic",
+      "status": "1"
+    },
+    {
+      "id": "10",
+      "ip": "192.168.1.23",
+      "mac": "b4:3a:28:f9:31:f9",
+      "host": "android-2471944abfcd0e3f",
+      "reserved": "Dynamic",
+      "status": "1"
+    },
+    {
+      "id": "11",
+      "ip": "192.168.1.34",
+      "mac": "90:09:17:73:25:33",
+      "host": "android-1e32b5c6a59e64f",
+      "reserved": "Dynamic",
+      "status": "1"
+    }
+  ],
+  "reservation_list": [],
+  "arp_list": [
+    {
+      "id": "1",
+      "arp_ip": "192.168.1.15",
+      "arp_mac": "68:27:37:cb:e4:08",
+      "arp_st": "0x2",
+      "arp_dev": "br0"
+    },
+    {
+      "id": "2",
+      "arp_ip": "192.168.1.19",
+      "arp_mac": "48:0f:cf:33:54:19",
+      "arp_st": "0x2",
+      "arp_dev": "br0"
+    },
+    {
+      "id": "3",
+      "arp_ip": "192.168.1.24",
+      "arp_mac": "28:c6:3f:16:4e:28",
+      "arp_st": "0x2",
+      "arp_dev": "br0"
+    },
+    {
+      "id": "4",
+      "arp_ip": "192.168.1.16",
+      "arp_mac": "00:87:01:e2:40:cd",
+      "arp_st": "0x2",
+      "arp_dev": "br0"
+    },
+    {
+      "id": "5",
+      "arp_ip": "192.168.1.26",
+      "arp_mac": "50:b7:c3:19:df:37",
+      "arp_st": "0x0",
+      "arp_dev": "br0"
+    },
+    {
+      "id": "6",
+      "arp_ip": "192.168.1.14",
+      "arp_mac": "90:2b:d2:f5:46:db",
+      "arp_st": "0x2",
+      "arp_dev": "br0"
+    },
+    {
+      "id": "7",
+      "arp_ip": "192.168.1.23",
+      "arp_mac": "b4:3a:28:f9:31:f9",
+      "arp_st": "0x2",
+      "arp_dev": "br0"
+    },
+    {
+      "id": "8",
+      "arp_ip": "192.168.1.5",
+      "arp_mac": "00:26:18:52:ba:85",
+      "arp_st": "0x2",
+      "arp_dev": "br0"
+    },
+    {
+      "id": "9",
+      "arp_ip": "192.168.1.4",
+      "arp_mac": "00:00:00:00:00:00",
+      "arp_st": "0x0",
+      "arp_dev": "br0"
+    },
+    {
+      "id": "10",
+      "arp_ip": "192.168.1.12",
+      "arp_mac": "52:1d:19:bf:53:ea",
+      "arp_st": "0x2",
+      "arp_dev": "br0"
+    },
+    {
+      "id": "11",
+      "arp_ip": "192.168.1.10",
+      "arp_mac": "d0:27:88:73:29:ae",
+      "arp_st": "0x2",
+      "arp_dev": "br0"
+    }
+  ],
+  "virtual_server_list": [
+    {
+      "id": "1",
+      "vir_name": "grafana",
+      "vir_ip": "192.168.1.4",
+      "vir_proto": "3",
+      "vir_outport_start": "3000",
+      "vir_outport_end": "3000",
+      "vir_inport_start": "3000",
+      "vir_inport_end": "3000"
+    },
+    {
+      "id": "2",
+      "vir_name": "wg",
+      "vir_ip": "192.168.1.4",
+      "vir_proto": "2",
+      "vir_outport_start": "22334",
+      "vir_outport_end": "22334",
+      "vir_inport_start": "22334",
+      "vir_inport_end": "22334"
+    },
+    {
+      "id": "3",
+      "vir_name": "minecraft",
+      "vir_ip": "192.168.1.4",
+      "vir_proto": "3",
+      "vir_outport_start": "25565",
+      "vir_outport_end": "25565",
+      "vir_inport_start": "25565",
+      "vir_inport_end": "25565"
+    },
+    {
+      "id": "4",
+      "vir_name": "shelly",
+      "vir_ip": "192.168.1.2",
+      "vir_proto": "3",
+      "vir_outport_start": "22",
+      "vir_outport_end": "22",
+      "vir_inport_start": "22",
+      "vir_inport_end": "22"
+    },
+    {
+      "id": "5",
+      "vir_name": "https",
+      "vir_ip": "192.168.1.2",
+      "vir_proto": "3",
+      "vir_outport_start": "443",
+      "vir_outport_end": "443",
+      "vir_inport_start": "443",
+      "vir_inport_end": "443"
+    },
+    {
+      "id": "6",
+      "vir_name": "http",
+      "vir_ip": "192.168.1.2",
+      "vir_proto": "1",
+      "vir_outport_start": "80",
+      "vir_outport_end": "80",
+      "vir_inport_start": "80",
+      "vir_inport_end": "80"
+    }
+  ],
+  "app_port_list": [],
+  "ip_filter_list": [],
+  "mac_filter_list": [],
+  "dns_filter_list": [],
+  "static_routing_list": [],
+  "qos_rule_list": [],
+  "sys_log": [
+    {
+      "id": "1",
+      "log": "0,CONNECTION,2020-10-12 17:14:04,udhcpc,40,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "2",
+      "log": "0,CONNECTION,2020-10-12 17:14:04,udhcpc,18,id=1:,['dhcp_sending_ack','192.168.1.12']"
+    },
+    {
+      "id": "3",
+      "log": "0,CONNECTION,2020-10-12 17:33:34,udhcpc,22,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "4",
+      "log": "0,CONNECTION,2020-10-12 17:43:29,udhcpc,21,id=1:,['dhcp_receive_discover']"
+    },
+    {
+      "id": "5",
+      "log": "0,CONNECTION,2020-10-12 17:43:29,udhcpc,19,id=1:,['dhcp_sending_offer','192.168.1.34']"
+    },
+    {
+      "id": "6",
+      "log": "0,CONNECTION,2020-10-12 17:43:29,udhcpc,23,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "7",
+      "log": "0,CONNECTION,2020-10-12 17:43:29,udhcpc,25,id=1:,['dhcp_sending_ack','192.168.1.34']"
+    },
+    {
+      "id": "8",
+      "log": "0,CONNECTION,2020-10-12 18:33:34,udhcpc,31,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "9",
+      "log": "0,CONNECTION,2020-10-12 18:33:34,udhcpc,19,id=1:,['dhcp_sending_ack','192.168.1.15']"
+    },
+    {
+      "id": "10",
+      "log": "0,CONNECTION,2020-10-12 18:50:36,udhcpc,22,id=1:,['dhcp_receive_discover']"
+    },
+    {
+      "id": "11",
+      "log": "0,CONNECTION,2020-10-12 19:04:20,udhcpc,18,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "12",
+      "log": "0,CONNECTION,2020-10-12 19:07:16,udhcpc,20,id=1:,['dhcp_receive_discover']"
+    },
+    {
+      "id": "13",
+      "log": "0,CONNECTION,2020-10-12 19:14:22,udhcpc,32,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "14",
+      "log": "0,CONNECTION,2020-10-12 19:14:22,udhcpc,24,id=1:,['dhcp_sending_ack','192.168.1.24']"
+    },
+    {
+      "id": "15",
+      "log": "0,CONNECTION,2020-10-12 19:33:34,udhcpc,37,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "16",
+      "log": "0,CONNECTION,2020-10-12 19:33:59,udhcpc,15,id=1:,['dhcp_receive_discover']"
+    },
+    {
+      "id": "17",
+      "log": "0,CONNECTION,2020-10-12 19:34:17,udhcpc,27,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "18",
+      "log": "0,CONNECTION,2020-10-12 19:34:17,udhcpc,15,id=1:,['dhcp_sending_ack','192.168.1.36']"
+    },
+    {
+      "id": "19",
+      "log": "0,CONNECTION,2020-10-12 20:01:24,udhcpc,21,id=1:,['dhcp_receive_discover']"
+    },
+    {
+      "id": "20",
+      "log": "0,CONNECTION,2020-10-12 20:01:25,udhcpc,16,id=1:,['dhcp_sending_offer','192.168.1.20']"
+    },
+    {
+      "id": "21",
+      "log": "0,CONNECTION,2020-10-12 20:01:25,udhcpc,57,id=1:,['dhcp_receive_discover']"
+    },
+    {
+      "id": "22",
+      "log": "0,CONNECTION,2020-10-12 20:01:25,udhcpc,14,id=1:,['dhcp_sending_offer','192.168.1.20']"
+    },
+    {
+      "id": "23",
+      "log": "0,CONNECTION,2020-10-12 20:01:25,udhcpc,31,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "24",
+      "log": "0,CONNECTION,2020-10-12 20:01:25,udhcpc,23,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "25",
+      "log": "0,CONNECTION,2020-10-12 20:07:16,udhcpc,19,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "26",
+      "log": "0,CONNECTION,2020-10-12 20:07:16,udhcpc,23,id=1:,['dhcp_sending_ack','192.168.1.11']"
+    },
+    {
+      "id": "27",
+      "log": "0,CONNECTION,2020-10-12 20:16:03,udhcpc,32,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "28",
+      "log": "0,CONNECTION,2020-10-12 20:17:25,udhcpc,29,id=1:,['dhcp_receive_discover']"
+    },
+    {
+      "id": "29",
+      "log": "0,CONNECTION,2020-10-12 20:17:25,udhcpc,14,id=1:,['dhcp_sending_offer','192.168.1.12']"
+    },
+    {
+      "id": "30",
+      "log": "0,CONNECTION,2020-10-12 20:17:25,udhcpc,30,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "31",
+      "log": "0,CONNECTION,2020-10-12 20:17:25,udhcpc,18,id=1:,['dhcp_sending_ack','192.168.1.12']"
+    },
+    {
+      "id": "32",
+      "log": "0,CONNECTION,2020-10-12 20:22:41,udhcpc,29,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "33",
+      "log": "0,CONNECTION,2020-10-12 20:22:41,udhcpc,22,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "34",
+      "log": "0,CONNECTION,2020-10-12 20:28:10,udhcpc,24,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "35",
+      "log": "0,CONNECTION,2020-10-12 20:28:10,udhcpc,30,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "36",
+      "log": "0,CONNECTION,2020-10-12 20:30:55,udhcpc,34,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "37",
+      "log": "0,CONNECTION,2020-10-12 20:30:55,udhcpc,15,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "38",
+      "log": "0,CONNECTION,2020-10-12 20:30:58,udhcpc,37,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "39",
+      "log": "0,CONNECTION,2020-10-12 20:30:58,udhcpc,16,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "40",
+      "log": "0,CONNECTION,2020-10-12 20:32:52,udhcpc,18,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "41",
+      "log": "0,CONNECTION,2020-10-12 20:32:52,udhcpc,24,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "42",
+      "log": "0,CONNECTION,2020-10-12 21:01:11,udhcpc,24,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "43",
+      "log": "0,CONNECTION,2020-10-12 21:01:11,udhcpc,30,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "44",
+      "log": "0,CONNECTION,2020-10-12 21:13:34,udhcpc,24,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "45",
+      "log": "0,CONNECTION,2020-10-12 21:13:34,udhcpc,18,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "46",
+      "log": "0,CONNECTION,2020-10-12 21:13:39,udhcpc,23,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "47",
+      "log": "0,CONNECTION,2020-10-12 21:13:39,udhcpc,33,id=1:,['dhcp_sending_ack','192.168.1.23']"
+    },
+    {
+      "id": "48",
+      "log": "0,CONNECTION,2020-10-12 21:27:25,udhcpc,34,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "49",
+      "log": "0,CONNECTION,2020-10-12 21:27:35,udhcpc,29,id=1:,['dhcp_receive_discover']"
+    },
+    {
+      "id": "50",
+      "log": "0,CONNECTION,2020-10-12 21:44:38,udhcpc,23,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "51",
+      "log": "0,CONNECTION,2020-10-12 21:44:38,udhcpc,22,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "52",
+      "log": "0,CONNECTION,2020-10-12 21:45:08,udhcpc,14,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "53",
+      "log": "0,CONNECTION,2020-10-12 21:45:08,udhcpc,36,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "54",
+      "log": "0,CONNECTION,2020-10-12 21:51:20,udhcpc,15,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "55",
+      "log": "0,CONNECTION,2020-10-12 21:51:20,udhcpc,18,id=1:,['dhcp_sending_ack','192.168.1.10']"
+    },
+    {
+      "id": "56",
+      "log": "0,CONNECTION,2020-10-12 22:41:54,udhcpc,31,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "57",
+      "log": "0,CONNECTION,2020-10-12 22:45:08,udhcpc,19,id=1:,['dhcp_receive_discover']"
+    },
+    {
+      "id": "58",
+      "log": "0,CONNECTION,2020-10-12 22:45:08,udhcpc,30,id=1:,['dhcp_sending_offer','192.168.1.17']"
+    },
+    {
+      "id": "59",
+      "log": "0,CONNECTION,2020-10-12 22:45:08,udhcpc,16,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "60",
+      "log": "0,CONNECTION,2020-10-12 22:45:08,udhcpc,23,id=1:,['dhcp_sending_ack','192.168.1.17']"
+    },
+    {
+      "id": "61",
+      "log": "0,CONNECTION,2020-10-12 22:45:23,udhcpc,22,id=1:,['dhcp_receive_discover']"
+    },
+    {
+      "id": "62",
+      "log": "0,CONNECTION,2020-10-12 22:45:23,udhcpc,16,id=1:,['dhcp_sending_offer','192.168.1.34']"
+    },
+    {
+      "id": "63",
+      "log": "0,CONNECTION,2020-10-12 22:45:23,udhcpc,27,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "64",
+      "log": "0,CONNECTION,2020-10-12 22:45:23,udhcpc,14,id=1:,['dhcp_sending_ack','192.168.1.34']"
+    },
+    {
+      "id": "65",
+      "log": "0,CONNECTION,2020-10-12 22:45:50,udhcpc,19,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "66",
+      "log": "0,CONNECTION,2020-10-12 22:45:50,udhcpc,21,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "67",
+      "log": "0,CONNECTION,2020-10-12 22:45:53,udhcpc,17,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "68",
+      "log": "0,CONNECTION,2020-10-12 22:45:53,udhcpc,37,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "69",
+      "log": "0,CONNECTION,2020-10-12 22:47:48,udhcpc,16,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "70",
+      "log": "0,CONNECTION,2020-10-12 22:47:48,udhcpc,22,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "71",
+      "log": "0,CONNECTION,2020-10-12 22:47:50,udhcpc,14,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "72",
+      "log": "0,CONNECTION,2020-10-12 22:47:50,udhcpc,23,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "73",
+      "log": "0,CONNECTION,2020-10-12 22:47:59,udhcpc,16,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "74",
+      "log": "0,CONNECTION,2020-10-12 22:47:59,udhcpc,34,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "75",
+      "log": "0,CONNECTION,2020-10-12 22:51:36,udhcpc,17,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "76",
+      "log": "0,CONNECTION,2020-10-12 22:51:36,udhcpc,15,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "77",
+      "log": "0,CONNECTION,2020-10-12 23:01:07,udhcpc,24,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "78",
+      "log": "0,CONNECTION,2020-10-12 23:01:07,udhcpc,20,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "79",
+      "log": "0,CONNECTION,2020-10-12 23:04:41,udhcpc,22,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "80",
+      "log": "0,CONNECTION,2020-10-12 23:04:41,udhcpc,27,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "81",
+      "log": "0,CONNECTION,2020-10-12 23:04:52,udhcpc,13,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "82",
+      "log": "0,CONNECTION,2020-10-12 23:04:52,udhcpc,27,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "83",
+      "log": "0,CONNECTION,2020-10-12 23:09:00,udhcpc,23,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "84",
+      "log": "0,CONNECTION,2020-10-12 23:09:57,udhcpc,50,id=1:,['dhcp_receive_discover']"
+    },
+    {
+      "id": "85",
+      "log": "0,CONNECTION,2020-10-12 23:22:07,udhcpc,32,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "86",
+      "log": "0,CONNECTION,2020-10-12 23:22:07,udhcpc,16,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "87",
+      "log": "0,CONNECTION,2020-10-12 23:33:22,udhcpc,30,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "88",
+      "log": "0,CONNECTION,2020-10-12 23:33:22,udhcpc,36,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "89",
+      "log": "0,CONNECTION,2020-10-12 23:33:30,udhcpc,14,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "90",
+      "log": "0,CONNECTION,2020-10-12 23:33:30,udhcpc,21,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "91",
+      "log": "0,CONNECTION,2020-10-12 23:43:31,udhcpc,34,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "92",
+      "log": "0,CONNECTION,2020-10-12 23:43:31,udhcpc,21,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "93",
+      "log": "0,CONNECTION,2020-10-12 23:58:08,udhcpc,36,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "94",
+      "log": "0,CONNECTION,2020-10-12 23:58:08,udhcpc,36,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "95",
+      "log": "0,CONNECTION,2020-10-12 23:58:16,udhcpc,22,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "96",
+      "log": "0,CONNECTION,2020-10-12 23:58:16,udhcpc,18,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "97",
+      "log": "0,CONNECTION,2020-10-12 23:58:54,udhcpc,22,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "98",
+      "log": "0,CONNECTION,2020-10-12 23:58:54,udhcpc,26,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "99",
+      "log": "0,CONNECTION,2020-10-12 23:59:37,udhcpc,24,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "100",
+      "log": "0,CONNECTION,2020-10-12 23:59:37,udhcpc,18,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "101",
+      "log": "0,CONNECTION,2020-10-13 00:00:30,udhcpc,19,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "102",
+      "log": "0,CONNECTION,2020-10-13 00:00:30,udhcpc,17,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "103",
+      "log": "0,CONNECTION,2020-10-13 00:00:34,udhcpc,19,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "104",
+      "log": "0,CONNECTION,2020-10-13 00:00:34,udhcpc,48,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "105",
+      "log": "0,CONNECTION,2020-10-13 00:01:38,udhcpc,21,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "106",
+      "log": "0,CONNECTION,2020-10-13 00:01:38,udhcpc,21,id=1:,['dhcp_sending_ack','192.168.1.15']"
+    },
+    {
+      "id": "107",
+      "log": "0,CONNECTION,2020-10-13 00:06:27,udhcpc,29,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "108",
+      "log": "0,CONNECTION,2020-10-13 00:06:27,udhcpc,23,id=1:,['dhcp_sending_ack','192.168.1.23']"
+    },
+    {
+      "id": "109",
+      "log": "0,CONNECTION,2020-10-13 00:22:16,udhcpc,28,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "110",
+      "log": "0,CONNECTION,2020-10-13 00:22:16,udhcpc,24,id=1:,['dhcp_sending_ack','192.168.1.19']"
+    },
+    {
+      "id": "111",
+      "log": "0,CONNECTION,2020-10-13 01:10:44,udhcpc,42,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "112",
+      "log": "0,CONNECTION,2020-10-13 01:11:05,udhcpc,40,id=1:,['dhcp_receive_discover']"
+    },
+    {
+      "id": "113",
+      "log": "0,CONNECTION,2020-10-13 01:22:14,udhcpc,36,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "114",
+      "log": "0,CONNECTION,2020-10-13 01:22:14,udhcpc,25,id=1:,['dhcp_sending_ack','192.168.1.19']"
+    },
+    {
+      "id": "115",
+      "log": "0,CONNECTION,2020-10-13 01:44:08,udhcpc,55,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "116",
+      "log": "0,CONNECTION,2020-10-13 01:44:08,udhcpc,23,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "117",
+      "log": "0,CONNECTION,2020-10-13 01:47:37,udhcpc,20,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "118",
+      "log": "0,CONNECTION,2020-10-13 01:47:48,udhcpc,24,id=1:,['dhcp_receive_discover']"
+    },
+    {
+      "id": "119",
+      "log": "0,CONNECTION,2020-10-13 01:51:43,udhcpc,28,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "120",
+      "log": "0,CONNECTION,2020-10-13 01:51:43,udhcpc,40,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    },
+    {
+      "id": "121",
+      "log": "0,CONNECTION,2020-10-13 01:51:48,udhcpc,53,id=1:,['dhcp_receive_request']"
+    },
+    {
+      "id": "122",
+      "log": "0,CONNECTION,2020-10-13 01:51:48,udhcpc,30,id=1:,['dhcp_sending_ack','192.168.1.20']"
+    }
+  ],
+  "auto_update_info_list": []
+}
