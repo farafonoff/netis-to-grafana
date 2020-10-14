@@ -11,10 +11,10 @@ node_network_receive_packets_total{device="{{iface_name}}"} {{rx_pack}}
 # HELP node_network_transmit_bytes_total Network device statistic transmit_bytes.
 # TYPE node_network_transmit_bytes_total counter
 {{#network}}
-node_network_transmit_bytes_total{device="{{iface_name}}"} {{rx_bytes}}
+node_network_transmit_bytes_total{device="{{iface_name}}"} {{tx_bytes}}
 {{/network}}
 # HELP node_network_transmit_packets_total Network device statistic transmit_packets.
 # TYPE node_network_transmit_packets_total counter
 {{#network}}
-node_network_transmit_packets_total{device="{{iface_name}}"} {{rx_pack}}
+node_network_transmit_packets_total{device="{{iface_name}}"} {{tx_pack}}
 {{/network}}
